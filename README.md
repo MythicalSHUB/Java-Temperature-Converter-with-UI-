@@ -1,4 +1,5 @@
 # Temperature Converter UI
+![GUI](https://github.com/MythicalSHUB/Java-Temperature-Converter-with-UI-/blob/main/image.png)
 
 ## Overview
 A simple **Java Swing GUI** application that converts temperatures between **Celsius, Kelvin, and Fahrenheit** with intuitive user interaction.
